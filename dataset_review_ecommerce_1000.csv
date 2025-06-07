@@ -1,0 +1,1001 @@
+id,review,sentiment
+1,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+2,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+3,"Pelayanan ramah dan responsif, recommended seller",positif
+4,"Tidak sesuai deskripsi, kualitas buruk",negatif
+5,Sangat puas dengan kualitas dan pelayanannya,positif
+6,"Pelayanan ramah dan responsif, recommended seller",positif
+7,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+8,"Tidak sesuai deskripsi, kualitas buruk",negatif
+9,Puas sekali dengan pelayanan dan kualitas barang,positif
+10,Barang datang dalam kondisi rusak,negatif
+11,Toko terpercaya dan pengiriman cepat,positif
+12,Barang sampai dengan cepat dan kualitas bagus,positif
+13,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+14,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+15,Pengemasan sangat rapi dan pengiriman cepat,positif
+16,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+17,Sangat puas dengan kualitas dan pelayanannya,positif
+18,"Barang asli dan harga terjangkau, sangat puas",positif
+19,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+20,"Tidak sesuai deskripsi, kualitas buruk",negatif
+21,Sangat puas dengan kualitas dan pelayanannya,positif
+22,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+23,Produk datang telat dan tidak lengkap,negatif
+24,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+25,"Barang rusak, tidak bisa dipakai",negatif
+26,Pengemasan sangat rapi dan pengiriman cepat,positif
+27,"Barang rusak, tidak bisa dipakai",negatif
+28,"Barang rusak, tidak bisa dipakai",negatif
+29,"Produk bagus, akan order lagi lain waktu",positif
+30,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+31,"Barang asli dan harga terjangkau, sangat puas",positif
+32,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+33,Barang bekas dikirimkan sebagai baru,negatif
+34,Produk datang telat dan tidak lengkap,negatif
+35,"Tidak sesuai deskripsi, kualitas buruk",negatif
+36,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+37,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+38,Barang bekas dikirimkan sebagai baru,negatif
+39,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+40,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+41,Barang sampai dengan cepat dan kualitas bagus,positif
+42,Barang datang dalam kondisi rusak,negatif
+43,Pengemasan sangat rapi dan pengiriman cepat,positif
+44,Produk datang telat dan tidak lengkap,negatif
+45,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+46,"Produk bagus, akan order lagi lain waktu",positif
+47,Puas sekali dengan pelayanan dan kualitas barang,positif
+48,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+49,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+50,Produk datang telat dan tidak lengkap,negatif
+51,Toko terpercaya dan pengiriman cepat,positif
+52,Pengemasan sangat rapi dan pengiriman cepat,positif
+53,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+54,"Barang rusak, tidak bisa dipakai",negatif
+55,"Barang rusak, tidak bisa dipakai",negatif
+56,"Harga murah dan kualitas sebanding, sangat puas",positif
+57,Barang datang dalam kondisi rusak,negatif
+58,Barang datang dalam kondisi rusak,negatif
+59,"Produk bagus, akan order lagi lain waktu",positif
+60,"Tidak sesuai deskripsi, kualitas buruk",negatif
+61,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+62,"Barang rusak, tidak bisa dipakai",negatif
+63,"Tidak sesuai deskripsi, kualitas buruk",negatif
+64,Barang bekas dikirimkan sebagai baru,negatif
+65,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+66,"Produk bagus, akan order lagi lain waktu",positif
+67,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+68,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+69,"Barang rusak, tidak bisa dipakai",negatif
+70,Penjual tidak responsif saat komplain,negatif
+71,"Tidak sesuai deskripsi, kualitas buruk",negatif
+72,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+73,"Harga murah dan kualitas sebanding, sangat puas",positif
+74,"Tidak sesuai deskripsi, kualitas buruk",negatif
+75,Produk datang telat dan tidak lengkap,negatif
+76,Barang sampai dengan cepat dan kualitas bagus,positif
+77,"Barang asli dan harga terjangkau, sangat puas",positif
+78,Penjual tidak responsif saat komplain,negatif
+79,Pengemasan sangat rapi dan pengiriman cepat,positif
+80,"Barang rusak, tidak bisa dipakai",negatif
+81,"Produk bagus, akan order lagi lain waktu",positif
+82,"Tidak sesuai deskripsi, kualitas buruk",negatif
+83,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+84,"Tidak sesuai deskripsi, kualitas buruk",negatif
+85,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+86,Barang datang dalam kondisi rusak,negatif
+87,"Tidak sesuai deskripsi, kualitas buruk",negatif
+88,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+89,Barang datang dalam kondisi rusak,negatif
+90,Barang bekas dikirimkan sebagai baru,negatif
+91,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+92,Pengemasan sangat rapi dan pengiriman cepat,positif
+93,"Barang asli dan harga terjangkau, sangat puas",positif
+94,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+95,Pengemasan sangat rapi dan pengiriman cepat,positif
+96,Puas sekali dengan pelayanan dan kualitas barang,positif
+97,"Pelayanan ramah dan responsif, recommended seller",positif
+98,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+99,Pengemasan sangat rapi dan pengiriman cepat,positif
+100,"Produk bagus, akan order lagi lain waktu",positif
+101,"Harga murah dan kualitas sebanding, sangat puas",positif
+102,Produk datang telat dan tidak lengkap,negatif
+103,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+104,Barang datang dalam kondisi rusak,negatif
+105,"Pelayanan ramah dan responsif, recommended seller",positif
+106,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+107,"Produk bagus, akan order lagi lain waktu",positif
+108,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+109,Barang bekas dikirimkan sebagai baru,negatif
+110,Sangat puas dengan kualitas dan pelayanannya,positif
+111,"Barang rusak, tidak bisa dipakai",negatif
+112,Pengemasan sangat rapi dan pengiriman cepat,positif
+113,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+114,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+115,"Pelayanan ramah dan responsif, recommended seller",positif
+116,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+117,Puas sekali dengan pelayanan dan kualitas barang,positif
+118,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+119,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+120,"Produk bagus, akan order lagi lain waktu",positif
+121,Sangat puas dengan kualitas dan pelayanannya,positif
+122,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+123,Sangat puas dengan kualitas dan pelayanannya,positif
+124,"Produk bagus, akan order lagi lain waktu",positif
+125,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+126,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+127,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+128,Barang sampai dengan cepat dan kualitas bagus,positif
+129,"Tidak sesuai deskripsi, kualitas buruk",negatif
+130,"Barang asli dan harga terjangkau, sangat puas",positif
+131,Toko terpercaya dan pengiriman cepat,positif
+132,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+133,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+134,"Harga murah dan kualitas sebanding, sangat puas",positif
+135,"Pelayanan ramah dan responsif, recommended seller",positif
+136,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+137,Toko terpercaya dan pengiriman cepat,positif
+138,Toko terpercaya dan pengiriman cepat,positif
+139,"Pelayanan ramah dan responsif, recommended seller",positif
+140,Toko terpercaya dan pengiriman cepat,positif
+141,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+142,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+143,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+144,Sangat puas dengan kualitas dan pelayanannya,positif
+145,Puas sekali dengan pelayanan dan kualitas barang,positif
+146,"Barang asli dan harga terjangkau, sangat puas",positif
+147,"Barang rusak, tidak bisa dipakai",negatif
+148,Toko terpercaya dan pengiriman cepat,positif
+149,"Barang rusak, tidak bisa dipakai",negatif
+150,Pengemasan sangat rapi dan pengiriman cepat,positif
+151,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+152,"Barang rusak, tidak bisa dipakai",negatif
+153,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+154,"Produk bagus, akan order lagi lain waktu",positif
+155,Penjual tidak responsif saat komplain,negatif
+156,Barang bekas dikirimkan sebagai baru,negatif
+157,Barang bekas dikirimkan sebagai baru,negatif
+158,Penjual tidak responsif saat komplain,negatif
+159,"Barang rusak, tidak bisa dipakai",negatif
+160,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+161,"Pelayanan ramah dan responsif, recommended seller",positif
+162,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+163,Toko terpercaya dan pengiriman cepat,positif
+164,"Barang asli dan harga terjangkau, sangat puas",positif
+165,Puas sekali dengan pelayanan dan kualitas barang,positif
+166,"Tidak sesuai deskripsi, kualitas buruk",negatif
+167,Barang sampai dengan cepat dan kualitas bagus,positif
+168,Sangat puas dengan kualitas dan pelayanannya,positif
+169,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+170,"Harga murah dan kualitas sebanding, sangat puas",positif
+171,Penjual tidak responsif saat komplain,negatif
+172,"Produk bagus, akan order lagi lain waktu",positif
+173,Barang datang dalam kondisi rusak,negatif
+174,"Barang rusak, tidak bisa dipakai",negatif
+175,"Harga murah dan kualitas sebanding, sangat puas",positif
+176,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+177,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+178,Barang sampai dengan cepat dan kualitas bagus,positif
+179,Barang sampai dengan cepat dan kualitas bagus,positif
+180,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+181,Barang bekas dikirimkan sebagai baru,negatif
+182,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+183,Barang datang dalam kondisi rusak,negatif
+184,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+185,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+186,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+187,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+188,"Barang asli dan harga terjangkau, sangat puas",positif
+189,Barang datang dalam kondisi rusak,negatif
+190,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+191,"Pelayanan ramah dan responsif, recommended seller",positif
+192,Barang sampai dengan cepat dan kualitas bagus,positif
+193,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+194,"Produk bagus, akan order lagi lain waktu",positif
+195,Pengemasan sangat rapi dan pengiriman cepat,positif
+196,Puas sekali dengan pelayanan dan kualitas barang,positif
+197,"Barang asli dan harga terjangkau, sangat puas",positif
+198,"Pelayanan ramah dan responsif, recommended seller",positif
+199,Penjual tidak responsif saat komplain,negatif
+200,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+201,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+202,Barang sampai dengan cepat dan kualitas bagus,positif
+203,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+204,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+205,Toko terpercaya dan pengiriman cepat,positif
+206,"Barang asli dan harga terjangkau, sangat puas",positif
+207,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+208,Toko terpercaya dan pengiriman cepat,positif
+209,Barang sampai dengan cepat dan kualitas bagus,positif
+210,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+211,"Tidak sesuai deskripsi, kualitas buruk",negatif
+212,Barang bekas dikirimkan sebagai baru,negatif
+213,Sangat puas dengan kualitas dan pelayanannya,positif
+214,Puas sekali dengan pelayanan dan kualitas barang,positif
+215,Produk datang telat dan tidak lengkap,negatif
+216,"Pelayanan ramah dan responsif, recommended seller",positif
+217,Penjual tidak responsif saat komplain,negatif
+218,Barang bekas dikirimkan sebagai baru,negatif
+219,Sangat puas dengan kualitas dan pelayanannya,positif
+220,"Tidak sesuai deskripsi, kualitas buruk",negatif
+221,Sangat puas dengan kualitas dan pelayanannya,positif
+222,Barang datang dalam kondisi rusak,negatif
+223,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+224,Penjual tidak responsif saat komplain,negatif
+225,Barang sampai dengan cepat dan kualitas bagus,positif
+226,Pengemasan sangat rapi dan pengiriman cepat,positif
+227,Toko terpercaya dan pengiriman cepat,positif
+228,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+229,"Produk bagus, akan order lagi lain waktu",positif
+230,"Tidak sesuai deskripsi, kualitas buruk",negatif
+231,"Harga murah dan kualitas sebanding, sangat puas",positif
+232,Penjual tidak responsif saat komplain,negatif
+233,Barang bekas dikirimkan sebagai baru,negatif
+234,"Barang rusak, tidak bisa dipakai",negatif
+235,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+236,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+237,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+238,Pengemasan sangat rapi dan pengiriman cepat,positif
+239,Produk datang telat dan tidak lengkap,negatif
+240,"Barang rusak, tidak bisa dipakai",negatif
+241,Puas sekali dengan pelayanan dan kualitas barang,positif
+242,Barang datang dalam kondisi rusak,negatif
+243,Pengemasan sangat rapi dan pengiriman cepat,positif
+244,Barang sampai dengan cepat dan kualitas bagus,positif
+245,"Barang rusak, tidak bisa dipakai",negatif
+246,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+247,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+248,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+249,"Pelayanan ramah dan responsif, recommended seller",positif
+250,"Produk bagus, akan order lagi lain waktu",positif
+251,"Tidak sesuai deskripsi, kualitas buruk",negatif
+252,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+253,"Tidak sesuai deskripsi, kualitas buruk",negatif
+254,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+255,"Harga murah dan kualitas sebanding, sangat puas",positif
+256,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+257,Pengemasan sangat rapi dan pengiriman cepat,positif
+258,Penjual tidak responsif saat komplain,negatif
+259,"Tidak sesuai deskripsi, kualitas buruk",negatif
+260,Pengemasan sangat rapi dan pengiriman cepat,positif
+261,"Pelayanan ramah dan responsif, recommended seller",positif
+262,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+263,"Barang asli dan harga terjangkau, sangat puas",positif
+264,"Barang rusak, tidak bisa dipakai",negatif
+265,Pengemasan sangat rapi dan pengiriman cepat,positif
+266,"Harga murah dan kualitas sebanding, sangat puas",positif
+267,"Barang rusak, tidak bisa dipakai",negatif
+268,"Barang asli dan harga terjangkau, sangat puas",positif
+269,Barang datang dalam kondisi rusak,negatif
+270,Sangat puas dengan kualitas dan pelayanannya,positif
+271,Toko terpercaya dan pengiriman cepat,positif
+272,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+273,Produk datang telat dan tidak lengkap,negatif
+274,Barang sampai dengan cepat dan kualitas bagus,positif
+275,Penjual tidak responsif saat komplain,negatif
+276,Barang datang dalam kondisi rusak,negatif
+277,"Tidak sesuai deskripsi, kualitas buruk",negatif
+278,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+279,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+280,Barang sampai dengan cepat dan kualitas bagus,positif
+281,Puas sekali dengan pelayanan dan kualitas barang,positif
+282,Barang datang dalam kondisi rusak,negatif
+283,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+284,Produk datang telat dan tidak lengkap,negatif
+285,Barang datang dalam kondisi rusak,negatif
+286,Barang bekas dikirimkan sebagai baru,negatif
+287,Puas sekali dengan pelayanan dan kualitas barang,positif
+288,"Produk bagus, akan order lagi lain waktu",positif
+289,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+290,Pengemasan sangat rapi dan pengiriman cepat,positif
+291,"Barang asli dan harga terjangkau, sangat puas",positif
+292,Barang datang dalam kondisi rusak,negatif
+293,Sangat puas dengan kualitas dan pelayanannya,positif
+294,"Pelayanan ramah dan responsif, recommended seller",positif
+295,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+296,"Barang asli dan harga terjangkau, sangat puas",positif
+297,"Pelayanan ramah dan responsif, recommended seller",positif
+298,Barang bekas dikirimkan sebagai baru,negatif
+299,Barang sampai dengan cepat dan kualitas bagus,positif
+300,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+301,Produk datang telat dan tidak lengkap,negatif
+302,"Harga murah dan kualitas sebanding, sangat puas",positif
+303,"Pelayanan ramah dan responsif, recommended seller",positif
+304,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+305,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+306,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+307,"Barang rusak, tidak bisa dipakai",negatif
+308,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+309,"Barang rusak, tidak bisa dipakai",negatif
+310,Penjual tidak responsif saat komplain,negatif
+311,Barang datang dalam kondisi rusak,negatif
+312,Pengemasan sangat rapi dan pengiriman cepat,positif
+313,Puas sekali dengan pelayanan dan kualitas barang,positif
+314,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+315,Produk datang telat dan tidak lengkap,negatif
+316,Produk datang telat dan tidak lengkap,negatif
+317,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+318,Barang bekas dikirimkan sebagai baru,negatif
+319,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+320,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+321,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+322,"Barang asli dan harga terjangkau, sangat puas",positif
+323,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+324,Barang datang dalam kondisi rusak,negatif
+325,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+326,Penjual tidak responsif saat komplain,negatif
+327,"Tidak sesuai deskripsi, kualitas buruk",negatif
+328,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+329,Toko terpercaya dan pengiriman cepat,positif
+330,Pengemasan sangat rapi dan pengiriman cepat,positif
+331,"Barang rusak, tidak bisa dipakai",negatif
+332,"Produk bagus, akan order lagi lain waktu",positif
+333,"Produk bagus, akan order lagi lain waktu",positif
+334,Barang bekas dikirimkan sebagai baru,negatif
+335,Barang sampai dengan cepat dan kualitas bagus,positif
+336,"Barang asli dan harga terjangkau, sangat puas",positif
+337,Pengemasan sangat rapi dan pengiriman cepat,positif
+338,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+339,Toko terpercaya dan pengiriman cepat,positif
+340,Penjual tidak responsif saat komplain,negatif
+341,"Tidak sesuai deskripsi, kualitas buruk",negatif
+342,"Barang rusak, tidak bisa dipakai",negatif
+343,Sangat puas dengan kualitas dan pelayanannya,positif
+344,Pengemasan sangat rapi dan pengiriman cepat,positif
+345,Barang bekas dikirimkan sebagai baru,negatif
+346,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+347,"Barang rusak, tidak bisa dipakai",negatif
+348,Sangat puas dengan kualitas dan pelayanannya,positif
+349,Penjual tidak responsif saat komplain,negatif
+350,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+351,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+352,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+353,"Produk bagus, akan order lagi lain waktu",positif
+354,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+355,Pengemasan sangat rapi dan pengiriman cepat,positif
+356,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+357,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+358,"Produk bagus, akan order lagi lain waktu",positif
+359,Toko terpercaya dan pengiriman cepat,positif
+360,"Tidak sesuai deskripsi, kualitas buruk",negatif
+361,"Barang rusak, tidak bisa dipakai",negatif
+362,Penjual tidak responsif saat komplain,negatif
+363,"Harga murah dan kualitas sebanding, sangat puas",positif
+364,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+365,Barang sampai dengan cepat dan kualitas bagus,positif
+366,"Tidak sesuai deskripsi, kualitas buruk",negatif
+367,"Harga murah dan kualitas sebanding, sangat puas",positif
+368,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+369,Barang sampai dengan cepat dan kualitas bagus,positif
+370,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+371,"Barang asli dan harga terjangkau, sangat puas",positif
+372,Barang sampai dengan cepat dan kualitas bagus,positif
+373,"Produk bagus, akan order lagi lain waktu",positif
+374,"Pelayanan ramah dan responsif, recommended seller",positif
+375,"Pelayanan ramah dan responsif, recommended seller",positif
+376,Barang bekas dikirimkan sebagai baru,negatif
+377,"Harga murah dan kualitas sebanding, sangat puas",positif
+378,Penjual tidak responsif saat komplain,negatif
+379,Pengemasan sangat rapi dan pengiriman cepat,positif
+380,Sangat puas dengan kualitas dan pelayanannya,positif
+381,Produk datang telat dan tidak lengkap,negatif
+382,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+383,"Produk bagus, akan order lagi lain waktu",positif
+384,Toko terpercaya dan pengiriman cepat,positif
+385,Penjual tidak responsif saat komplain,negatif
+386,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+387,"Barang rusak, tidak bisa dipakai",negatif
+388,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+389,Penjual tidak responsif saat komplain,negatif
+390,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+391,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+392,Barang sampai dengan cepat dan kualitas bagus,positif
+393,Toko terpercaya dan pengiriman cepat,positif
+394,Barang sampai dengan cepat dan kualitas bagus,positif
+395,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+396,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+397,Pengemasan sangat rapi dan pengiriman cepat,positif
+398,Barang bekas dikirimkan sebagai baru,negatif
+399,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+400,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+401,"Harga murah dan kualitas sebanding, sangat puas",positif
+402,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+403,"Harga murah dan kualitas sebanding, sangat puas",positif
+404,Produk datang telat dan tidak lengkap,negatif
+405,Produk datang telat dan tidak lengkap,negatif
+406,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+407,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+408,Penjual tidak responsif saat komplain,negatif
+409,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+410,Toko terpercaya dan pengiriman cepat,positif
+411,Sangat puas dengan kualitas dan pelayanannya,positif
+412,Produk datang telat dan tidak lengkap,negatif
+413,"Pelayanan ramah dan responsif, recommended seller",positif
+414,Puas sekali dengan pelayanan dan kualitas barang,positif
+415,Produk datang telat dan tidak lengkap,negatif
+416,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+417,Barang bekas dikirimkan sebagai baru,negatif
+418,Produk datang telat dan tidak lengkap,negatif
+419,"Harga murah dan kualitas sebanding, sangat puas",positif
+420,Puas sekali dengan pelayanan dan kualitas barang,positif
+421,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+422,Toko terpercaya dan pengiriman cepat,positif
+423,"Produk bagus, akan order lagi lain waktu",positif
+424,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+425,"Barang asli dan harga terjangkau, sangat puas",positif
+426,"Pelayanan ramah dan responsif, recommended seller",positif
+427,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+428,"Produk bagus, akan order lagi lain waktu",positif
+429,Sangat puas dengan kualitas dan pelayanannya,positif
+430,"Tidak sesuai deskripsi, kualitas buruk",negatif
+431,"Pelayanan ramah dan responsif, recommended seller",positif
+432,"Barang asli dan harga terjangkau, sangat puas",positif
+433,Sangat puas dengan kualitas dan pelayanannya,positif
+434,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+435,"Tidak sesuai deskripsi, kualitas buruk",negatif
+436,Barang sampai dengan cepat dan kualitas bagus,positif
+437,"Barang asli dan harga terjangkau, sangat puas",positif
+438,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+439,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+440,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+441,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+442,"Produk bagus, akan order lagi lain waktu",positif
+443,Puas sekali dengan pelayanan dan kualitas barang,positif
+444,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+445,Penjual tidak responsif saat komplain,negatif
+446,"Tidak sesuai deskripsi, kualitas buruk",negatif
+447,Pengemasan sangat rapi dan pengiriman cepat,positif
+448,"Barang rusak, tidak bisa dipakai",negatif
+449,"Pelayanan ramah dan responsif, recommended seller",positif
+450,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+451,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+452,Penjual tidak responsif saat komplain,negatif
+453,"Produk bagus, akan order lagi lain waktu",positif
+454,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+455,"Harga murah dan kualitas sebanding, sangat puas",positif
+456,Toko terpercaya dan pengiriman cepat,positif
+457,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+458,Penjual tidak responsif saat komplain,negatif
+459,Barang datang dalam kondisi rusak,negatif
+460,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+461,Barang sampai dengan cepat dan kualitas bagus,positif
+462,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+463,Produk datang telat dan tidak lengkap,negatif
+464,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+465,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+466,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+467,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+468,"Barang asli dan harga terjangkau, sangat puas",positif
+469,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+470,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+471,Barang datang dalam kondisi rusak,negatif
+472,"Produk bagus, akan order lagi lain waktu",positif
+473,Barang datang dalam kondisi rusak,negatif
+474,Puas sekali dengan pelayanan dan kualitas barang,positif
+475,Barang bekas dikirimkan sebagai baru,negatif
+476,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+477,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+478,Produk datang telat dan tidak lengkap,negatif
+479,"Pelayanan ramah dan responsif, recommended seller",positif
+480,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+481,"Produk bagus, akan order lagi lain waktu",positif
+482,"Harga murah dan kualitas sebanding, sangat puas",positif
+483,Puas sekali dengan pelayanan dan kualitas barang,positif
+484,"Barang rusak, tidak bisa dipakai",negatif
+485,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+486,Sangat puas dengan kualitas dan pelayanannya,positif
+487,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+488,"Tidak sesuai deskripsi, kualitas buruk",negatif
+489,"Barang asli dan harga terjangkau, sangat puas",positif
+490,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+491,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+492,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+493,Penjual tidak responsif saat komplain,negatif
+494,"Barang rusak, tidak bisa dipakai",negatif
+495,"Pelayanan ramah dan responsif, recommended seller",positif
+496,"Barang rusak, tidak bisa dipakai",negatif
+497,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+498,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+499,Barang sampai dengan cepat dan kualitas bagus,positif
+500,"Barang asli dan harga terjangkau, sangat puas",positif
+501,Pengemasan sangat rapi dan pengiriman cepat,positif
+502,Produk datang telat dan tidak lengkap,negatif
+503,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+504,"Pelayanan ramah dan responsif, recommended seller",positif
+505,Barang datang dalam kondisi rusak,negatif
+506,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+507,Toko terpercaya dan pengiriman cepat,positif
+508,"Produk bagus, akan order lagi lain waktu",positif
+509,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+510,Barang sampai dengan cepat dan kualitas bagus,positif
+511,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+512,Barang bekas dikirimkan sebagai baru,negatif
+513,"Barang rusak, tidak bisa dipakai",negatif
+514,"Barang asli dan harga terjangkau, sangat puas",positif
+515,Penjual tidak responsif saat komplain,negatif
+516,Barang datang dalam kondisi rusak,negatif
+517,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+518,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+519,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+520,Sangat puas dengan kualitas dan pelayanannya,positif
+521,Produk datang telat dan tidak lengkap,negatif
+522,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+523,Puas sekali dengan pelayanan dan kualitas barang,positif
+524,Barang sampai dengan cepat dan kualitas bagus,positif
+525,Barang bekas dikirimkan sebagai baru,negatif
+526,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+527,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+528,Penjual tidak responsif saat komplain,negatif
+529,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+530,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+531,Pengemasan sangat rapi dan pengiriman cepat,positif
+532,Barang bekas dikirimkan sebagai baru,negatif
+533,Barang bekas dikirimkan sebagai baru,negatif
+534,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+535,Barang bekas dikirimkan sebagai baru,negatif
+536,Penjual tidak responsif saat komplain,negatif
+537,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+538,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+539,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+540,Sangat puas dengan kualitas dan pelayanannya,positif
+541,"Harga murah dan kualitas sebanding, sangat puas",positif
+542,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+543,Penjual tidak responsif saat komplain,negatif
+544,Penjual tidak responsif saat komplain,negatif
+545,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+546,Penjual tidak responsif saat komplain,negatif
+547,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+548,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+549,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+550,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+551,Barang bekas dikirimkan sebagai baru,negatif
+552,"Tidak sesuai deskripsi, kualitas buruk",negatif
+553,Sangat puas dengan kualitas dan pelayanannya,positif
+554,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+555,"Barang asli dan harga terjangkau, sangat puas",positif
+556,Barang bekas dikirimkan sebagai baru,negatif
+557,Sangat puas dengan kualitas dan pelayanannya,positif
+558,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+559,Pengemasan sangat rapi dan pengiriman cepat,positif
+560,Toko terpercaya dan pengiriman cepat,positif
+561,"Tidak sesuai deskripsi, kualitas buruk",negatif
+562,Toko terpercaya dan pengiriman cepat,positif
+563,"Pelayanan ramah dan responsif, recommended seller",positif
+564,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+565,Penjual tidak responsif saat komplain,negatif
+566,"Barang rusak, tidak bisa dipakai",negatif
+567,Barang sampai dengan cepat dan kualitas bagus,positif
+568,"Produk bagus, akan order lagi lain waktu",positif
+569,Pengemasan sangat rapi dan pengiriman cepat,positif
+570,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+571,"Barang asli dan harga terjangkau, sangat puas",positif
+572,"Tidak sesuai deskripsi, kualitas buruk",negatif
+573,"Harga murah dan kualitas sebanding, sangat puas",positif
+574,Barang bekas dikirimkan sebagai baru,negatif
+575,"Produk bagus, akan order lagi lain waktu",positif
+576,Penjual tidak responsif saat komplain,negatif
+577,"Barang asli dan harga terjangkau, sangat puas",positif
+578,"Produk bagus, akan order lagi lain waktu",positif
+579,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+580,Puas sekali dengan pelayanan dan kualitas barang,positif
+581,Puas sekali dengan pelayanan dan kualitas barang,positif
+582,Sangat puas dengan kualitas dan pelayanannya,positif
+583,"Pelayanan ramah dan responsif, recommended seller",positif
+584,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+585,Pengemasan sangat rapi dan pengiriman cepat,positif
+586,Produk datang telat dan tidak lengkap,negatif
+587,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+588,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+589,Produk datang telat dan tidak lengkap,negatif
+590,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+591,Pengemasan sangat rapi dan pengiriman cepat,positif
+592,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+593,"Harga murah dan kualitas sebanding, sangat puas",positif
+594,Produk datang telat dan tidak lengkap,negatif
+595,"Harga murah dan kualitas sebanding, sangat puas",positif
+596,"Tidak sesuai deskripsi, kualitas buruk",negatif
+597,"Harga murah dan kualitas sebanding, sangat puas",positif
+598,Barang sampai dengan cepat dan kualitas bagus,positif
+599,"Barang asli dan harga terjangkau, sangat puas",positif
+600,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+601,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+602,Barang sampai dengan cepat dan kualitas bagus,positif
+603,Sangat puas dengan kualitas dan pelayanannya,positif
+604,"Barang rusak, tidak bisa dipakai",negatif
+605,"Barang asli dan harga terjangkau, sangat puas",positif
+606,"Barang rusak, tidak bisa dipakai",negatif
+607,Pengemasan sangat rapi dan pengiriman cepat,positif
+608,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+609,Barang bekas dikirimkan sebagai baru,negatif
+610,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+611,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+612,"Produk bagus, akan order lagi lain waktu",positif
+613,Barang datang dalam kondisi rusak,negatif
+614,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+615,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+616,"Pelayanan ramah dan responsif, recommended seller",positif
+617,"Harga murah dan kualitas sebanding, sangat puas",positif
+618,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+619,Produk datang telat dan tidak lengkap,negatif
+620,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+621,Toko terpercaya dan pengiriman cepat,positif
+622,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+623,Barang datang dalam kondisi rusak,negatif
+624,"Pelayanan ramah dan responsif, recommended seller",positif
+625,Barang bekas dikirimkan sebagai baru,negatif
+626,"Tidak sesuai deskripsi, kualitas buruk",negatif
+627,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+628,Pengemasan sangat rapi dan pengiriman cepat,positif
+629,"Produk bagus, akan order lagi lain waktu",positif
+630,"Pelayanan ramah dan responsif, recommended seller",positif
+631,"Barang asli dan harga terjangkau, sangat puas",positif
+632,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+633,Barang bekas dikirimkan sebagai baru,negatif
+634,"Barang rusak, tidak bisa dipakai",negatif
+635,"Pelayanan ramah dan responsif, recommended seller",positif
+636,"Pelayanan ramah dan responsif, recommended seller",positif
+637,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+638,"Tidak sesuai deskripsi, kualitas buruk",negatif
+639,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+640,Barang bekas dikirimkan sebagai baru,negatif
+641,"Barang asli dan harga terjangkau, sangat puas",positif
+642,Barang datang dalam kondisi rusak,negatif
+643,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+644,Produk datang telat dan tidak lengkap,negatif
+645,"Pelayanan ramah dan responsif, recommended seller",positif
+646,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+647,"Produk bagus, akan order lagi lain waktu",positif
+648,"Pelayanan ramah dan responsif, recommended seller",positif
+649,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+650,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+651,Barang datang dalam kondisi rusak,negatif
+652,Produk datang telat dan tidak lengkap,negatif
+653,Barang bekas dikirimkan sebagai baru,negatif
+654,Produk datang telat dan tidak lengkap,negatif
+655,Penjual tidak responsif saat komplain,negatif
+656,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+657,Penjual tidak responsif saat komplain,negatif
+658,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+659,"Harga murah dan kualitas sebanding, sangat puas",positif
+660,Barang datang dalam kondisi rusak,negatif
+661,Puas sekali dengan pelayanan dan kualitas barang,positif
+662,"Barang rusak, tidak bisa dipakai",negatif
+663,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+664,"Produk bagus, akan order lagi lain waktu",positif
+665,"Barang asli dan harga terjangkau, sangat puas",positif
+666,"Barang asli dan harga terjangkau, sangat puas",positif
+667,Produk datang telat dan tidak lengkap,negatif
+668,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+669,Toko terpercaya dan pengiriman cepat,positif
+670,"Pelayanan ramah dan responsif, recommended seller",positif
+671,Puas sekali dengan pelayanan dan kualitas barang,positif
+672,Toko terpercaya dan pengiriman cepat,positif
+673,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+674,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+675,Sangat puas dengan kualitas dan pelayanannya,positif
+676,Puas sekali dengan pelayanan dan kualitas barang,positif
+677,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+678,Penjual tidak responsif saat komplain,negatif
+679,Sangat puas dengan kualitas dan pelayanannya,positif
+680,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+681,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+682,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+683,Penjual tidak responsif saat komplain,negatif
+684,Barang sampai dengan cepat dan kualitas bagus,positif
+685,Sangat puas dengan kualitas dan pelayanannya,positif
+686,Sangat puas dengan kualitas dan pelayanannya,positif
+687,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+688,Barang bekas dikirimkan sebagai baru,negatif
+689,"Barang rusak, tidak bisa dipakai",negatif
+690,Barang sampai dengan cepat dan kualitas bagus,positif
+691,"Produk bagus, akan order lagi lain waktu",positif
+692,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+693,Produk datang telat dan tidak lengkap,negatif
+694,Puas sekali dengan pelayanan dan kualitas barang,positif
+695,"Pelayanan ramah dan responsif, recommended seller",positif
+696,"Barang asli dan harga terjangkau, sangat puas",positif
+697,Toko terpercaya dan pengiriman cepat,positif
+698,"Barang asli dan harga terjangkau, sangat puas",positif
+699,"Pelayanan ramah dan responsif, recommended seller",positif
+700,Toko terpercaya dan pengiriman cepat,positif
+701,"Pelayanan ramah dan responsif, recommended seller",positif
+702,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+703,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+704,"Harga murah dan kualitas sebanding, sangat puas",positif
+705,Puas sekali dengan pelayanan dan kualitas barang,positif
+706,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+707,"Barang asli dan harga terjangkau, sangat puas",positif
+708,Puas sekali dengan pelayanan dan kualitas barang,positif
+709,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+710,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+711,Toko terpercaya dan pengiriman cepat,positif
+712,Puas sekali dengan pelayanan dan kualitas barang,positif
+713,Puas sekali dengan pelayanan dan kualitas barang,positif
+714,Toko terpercaya dan pengiriman cepat,positif
+715,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+716,Produk datang telat dan tidak lengkap,negatif
+717,Produk datang telat dan tidak lengkap,negatif
+718,Puas sekali dengan pelayanan dan kualitas barang,positif
+719,"Produk bagus, akan order lagi lain waktu",positif
+720,"Produk bagus, akan order lagi lain waktu",positif
+721,Penjual tidak responsif saat komplain,negatif
+722,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+723,Penjual tidak responsif saat komplain,negatif
+724,Barang sampai dengan cepat dan kualitas bagus,positif
+725,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+726,"Pelayanan ramah dan responsif, recommended seller",positif
+727,"Tidak sesuai deskripsi, kualitas buruk",negatif
+728,Toko terpercaya dan pengiriman cepat,positif
+729,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+730,Toko terpercaya dan pengiriman cepat,positif
+731,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+732,"Tidak sesuai deskripsi, kualitas buruk",negatif
+733,Barang sampai dengan cepat dan kualitas bagus,positif
+734,"Barang asli dan harga terjangkau, sangat puas",positif
+735,"Barang rusak, tidak bisa dipakai",negatif
+736,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+737,"Produk bagus, akan order lagi lain waktu",positif
+738,"Tidak sesuai deskripsi, kualitas buruk",negatif
+739,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+740,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+741,"Barang asli dan harga terjangkau, sangat puas",positif
+742,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+743,Barang bekas dikirimkan sebagai baru,negatif
+744,"Barang asli dan harga terjangkau, sangat puas",positif
+745,Puas sekali dengan pelayanan dan kualitas barang,positif
+746,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+747,Barang bekas dikirimkan sebagai baru,negatif
+748,Produk datang telat dan tidak lengkap,negatif
+749,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+750,Puas sekali dengan pelayanan dan kualitas barang,positif
+751,"Barang asli dan harga terjangkau, sangat puas",positif
+752,Puas sekali dengan pelayanan dan kualitas barang,positif
+753,Barang datang dalam kondisi rusak,negatif
+754,"Pelayanan ramah dan responsif, recommended seller",positif
+755,Sangat puas dengan kualitas dan pelayanannya,positif
+756,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+757,Barang bekas dikirimkan sebagai baru,negatif
+758,Barang bekas dikirimkan sebagai baru,negatif
+759,"Barang rusak, tidak bisa dipakai",negatif
+760,Barang datang dalam kondisi rusak,negatif
+761,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+762,"Harga murah dan kualitas sebanding, sangat puas",positif
+763,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+764,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+765,"Harga murah dan kualitas sebanding, sangat puas",positif
+766,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+767,"Barang rusak, tidak bisa dipakai",negatif
+768,"Tidak sesuai deskripsi, kualitas buruk",negatif
+769,"Tidak sesuai deskripsi, kualitas buruk",negatif
+770,"Barang asli dan harga terjangkau, sangat puas",positif
+771,Produk datang telat dan tidak lengkap,negatif
+772,Sangat puas dengan kualitas dan pelayanannya,positif
+773,"Harga murah dan kualitas sebanding, sangat puas",positif
+774,Produk datang telat dan tidak lengkap,negatif
+775,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+776,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+777,Puas sekali dengan pelayanan dan kualitas barang,positif
+778,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+779,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+780,Pengemasan sangat rapi dan pengiriman cepat,positif
+781,"Produk bagus, akan order lagi lain waktu",positif
+782,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+783,Toko terpercaya dan pengiriman cepat,positif
+784,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+785,Barang datang dalam kondisi rusak,negatif
+786,Barang datang dalam kondisi rusak,negatif
+787,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+788,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+789,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+790,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+791,"Barang rusak, tidak bisa dipakai",negatif
+792,"Tidak sesuai deskripsi, kualitas buruk",negatif
+793,Penjual tidak responsif saat komplain,negatif
+794,"Harga murah dan kualitas sebanding, sangat puas",positif
+795,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+796,Sangat puas dengan kualitas dan pelayanannya,positif
+797,Pengemasan sangat rapi dan pengiriman cepat,positif
+798,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+799,Barang datang dalam kondisi rusak,negatif
+800,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+801,Sangat puas dengan kualitas dan pelayanannya,positif
+802,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+803,"Barang asli dan harga terjangkau, sangat puas",positif
+804,Barang bekas dikirimkan sebagai baru,negatif
+805,"Harga murah dan kualitas sebanding, sangat puas",positif
+806,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+807,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+808,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+809,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+810,Barang sampai dengan cepat dan kualitas bagus,positif
+811,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+812,"Harga murah dan kualitas sebanding, sangat puas",positif
+813,Produk datang telat dan tidak lengkap,negatif
+814,"Barang rusak, tidak bisa dipakai",negatif
+815,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+816,Barang sampai dengan cepat dan kualitas bagus,positif
+817,Puas sekali dengan pelayanan dan kualitas barang,positif
+818,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+819,"Produk bagus, akan order lagi lain waktu",positif
+820,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+821,Produk datang telat dan tidak lengkap,negatif
+822,"Harga murah dan kualitas sebanding, sangat puas",positif
+823,Barang sampai dengan cepat dan kualitas bagus,positif
+824,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+825,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+826,"Barang rusak, tidak bisa dipakai",negatif
+827,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+828,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+829,"Tidak sesuai deskripsi, kualitas buruk",negatif
+830,Barang datang dalam kondisi rusak,negatif
+831,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+832,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+833,Barang sampai dengan cepat dan kualitas bagus,positif
+834,"Pelayanan ramah dan responsif, recommended seller",positif
+835,Puas sekali dengan pelayanan dan kualitas barang,positif
+836,Produk datang telat dan tidak lengkap,negatif
+837,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+838,"Barang asli dan harga terjangkau, sangat puas",positif
+839,Barang bekas dikirimkan sebagai baru,negatif
+840,Puas sekali dengan pelayanan dan kualitas barang,positif
+841,"Produk bagus, akan order lagi lain waktu",positif
+842,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+843,"Produk bagus, akan order lagi lain waktu",positif
+844,Pengemasan sangat rapi dan pengiriman cepat,positif
+845,Pengemasan sangat rapi dan pengiriman cepat,positif
+846,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+847,"Tidak sesuai deskripsi, kualitas buruk",negatif
+848,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+849,Barang sampai dengan cepat dan kualitas bagus,positif
+850,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+851,Barang sampai dengan cepat dan kualitas bagus,positif
+852,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+853,"Barang asli dan harga terjangkau, sangat puas",positif
+854,Sangat puas dengan kualitas dan pelayanannya,positif
+855,Barang datang dalam kondisi rusak,negatif
+856,"Harga murah dan kualitas sebanding, sangat puas",positif
+857,"Produk bagus, akan order lagi lain waktu",positif
+858,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+859,"Pelayanan ramah dan responsif, recommended seller",positif
+860,"Barang rusak, tidak bisa dipakai",negatif
+861,"Harga murah dan kualitas sebanding, sangat puas",positif
+862,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+863,"Barang asli dan harga terjangkau, sangat puas",positif
+864,Penjual tidak responsif saat komplain,negatif
+865,Sangat puas dengan kualitas dan pelayanannya,positif
+866,"Produk bagus, akan order lagi lain waktu",positif
+867,Barang sampai dengan cepat dan kualitas bagus,positif
+868,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+869,Barang datang dalam kondisi rusak,negatif
+870,Barang sampai dengan cepat dan kualitas bagus,positif
+871,Puas sekali dengan pelayanan dan kualitas barang,positif
+872,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+873,Barang bekas dikirimkan sebagai baru,negatif
+874,Barang sampai dengan cepat dan kualitas bagus,positif
+875,Toko terpercaya dan pengiriman cepat,positif
+876,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+877,"Pelayanan ramah dan responsif, recommended seller",positif
+878,Puas sekali dengan pelayanan dan kualitas barang,positif
+879,Sangat puas dengan kualitas dan pelayanannya,positif
+880,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+881,Barang bekas dikirimkan sebagai baru,negatif
+882,"Barang asli dan harga terjangkau, sangat puas",positif
+883,"Pelayanan ramah dan responsif, recommended seller",positif
+884,"Tidak sesuai deskripsi, kualitas buruk",negatif
+885,"Barang asli dan harga terjangkau, sangat puas",positif
+886,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+887,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+888,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+889,"Tidak sesuai deskripsi, kualitas buruk",negatif
+890,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+891,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+892,Penjual tidak responsif saat komplain,negatif
+893,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+894,"Harga murah dan kualitas sebanding, sangat puas",positif
+895,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+896,"Produk bagus, akan order lagi lain waktu",positif
+897,Barang bekas dikirimkan sebagai baru,negatif
+898,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+899,"Barang rusak, tidak bisa dipakai",negatif
+900,Penjual tidak responsif saat komplain,negatif
+901,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+902,Barang bekas dikirimkan sebagai baru,negatif
+903,"Barang asli dan harga terjangkau, sangat puas",positif
+904,"Barang rusak, tidak bisa dipakai",negatif
+905,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+906,"Produk bagus, akan order lagi lain waktu",positif
+907,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+908,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+909,"Tidak sesuai deskripsi, kualitas buruk",negatif
+910,"Pelayanan ramah dan responsif, recommended seller",positif
+911,Sangat puas dengan kualitas dan pelayanannya,positif
+912,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+913,Barang datang dalam kondisi rusak,negatif
+914,"Barang rusak, tidak bisa dipakai",negatif
+915,"Barang asli dan harga terjangkau, sangat puas",positif
+916,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+917,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+918,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+919,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+920,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+921,Barang sampai dengan cepat dan kualitas bagus,positif
+922,"Tidak sesuai deskripsi, kualitas buruk",negatif
+923,"Harga murah dan kualitas sebanding, sangat puas",positif
+924,Pengemasan sangat rapi dan pengiriman cepat,positif
+925,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+926,"Barang rusak, tidak bisa dipakai",negatif
+927,Puas sekali dengan pelayanan dan kualitas barang,positif
+928,Penjual tidak responsif saat komplain,negatif
+929,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+930,"Barang rusak, tidak bisa dipakai",negatif
+931,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+932,Produk datang telat dan tidak lengkap,negatif
+933,Puas sekali dengan pelayanan dan kualitas barang,positif
+934,Produk datang telat dan tidak lengkap,negatif
+935,Toko terpercaya dan pengiriman cepat,positif
+936,Barang sampai dengan cepat dan kualitas bagus,positif
+937,Puas sekali dengan pelayanan dan kualitas barang,positif
+938,Penjual tidak responsif saat komplain,negatif
+939,Produk datang telat dan tidak lengkap,negatif
+940,Puas sekali dengan pelayanan dan kualitas barang,positif
+941,Puas sekali dengan pelayanan dan kualitas barang,positif
+942,Barang bekas dikirimkan sebagai baru,negatif
+943,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+944,Puas sekali dengan pelayanan dan kualitas barang,positif
+945,"Produk bagus, akan order lagi lain waktu",positif
+946,Barang sampai dengan cepat dan kualitas bagus,positif
+947,Sangat puas dengan kualitas dan pelayanannya,positif
+948,Pengemasan sangat rapi dan pengiriman cepat,positif
+949,"Harga murah dan kualitas sebanding, sangat puas",positif
+950,"Barang asli dan harga terjangkau, sangat puas",positif
+951,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+952,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+953,"Tidak sesuai deskripsi, kualitas buruk",negatif
+954,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+955,"Pelayanan ramah dan responsif, recommended seller",positif
+956,Pengemasan sangat rapi dan pengiriman cepat,positif
+957,Barang sampai dengan cepat dan kualitas bagus,positif
+958,Sangat puas dengan kualitas dan pelayanannya,positif
+959,Barang datang dalam kondisi rusak,negatif
+960,"Harga murah dan kualitas sebanding, sangat puas",positif
+961,Produk datang telat dan tidak lengkap,negatif
+962,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+963,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+964,"Kualitas produk jelek, tidak sesuai ekspektasi",negatif
+965,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+966,"Pelayanan ramah dan responsif, recommended seller",positif
+967,"Tidak sesuai deskripsi, kualitas buruk",negatif
+968,Pengemasan sangat rapi dan pengiriman cepat,positif
+969,"Barang asli dan harga terjangkau, sangat puas",positif
+970,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+971,Puas sekali dengan pelayanan dan kualitas barang,positif
+972,Penjual tidak responsif saat komplain,negatif
+973,"Barang rusak, tidak bisa dipakai",negatif
+974,"Sesuai deskripsi dan sangat membantu, terima kasih",positif
+975,Barang datang dalam kondisi rusak,negatif
+976,Sangat puas dengan kualitas dan pelayanannya,positif
+977,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+978,"Sangat memuaskan, pengiriman lebih cepat dari estimasi",positif
+979,Sangat puas dengan kualitas dan pelayanannya,positif
+980,"Tidak sesuai deskripsi, kualitas buruk",negatif
+981,Toko terpercaya dan pengiriman cepat,positif
+982,"Barang rusak, tidak bisa dipakai",negatif
+983,"Pelayanan ramah dan responsif, recommended seller",positif
+984,"Barang asli dan harga terjangkau, sangat puas",positif
+985,"Tidak disarankan, barang cepat rusak setelah 3 hari",negatif
+986,"Ukuran tidak sesuai, terlalu kecil dari yang diharapkan",negatif
+987,Barang datang dalam kondisi rusak,negatif
+988,"Produk tidak sesuai dengan gambar, sangat kecewa",negatif
+989,"Barang asli dan harga terjangkau, sangat puas",positif
+990,"Tidak sesuai deskripsi, kualitas buruk",negatif
+991,Toko terpercaya dan pengiriman cepat,positif
+992,"Produk mengecewakan, bahan tipis dan tidak awet",negatif
+993,Toko terpercaya dan pengiriman cepat,positif
+994,Sangat puas dengan kualitas dan pelayanannya,positif
+995,Penjual tidak responsif saat komplain,negatif
+996,"Tidak sesuai deskripsi, kualitas buruk",negatif
+997,"Tidak sesuai deskripsi, kualitas buruk",negatif
+998,Toko terpercaya dan pengiriman cepat,positif
+999,Barang sampai dengan cepat dan kualitas bagus,positif
+1000,Puas sekali dengan pelayanan dan kualitas barang,positif
