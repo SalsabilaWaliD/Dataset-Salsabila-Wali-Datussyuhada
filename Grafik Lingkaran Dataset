@@ -1,0 +1,46 @@
+# Langkah 1: Import pustaka yang dibutuhkan
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Langkah 2: Membaca file CSV (pastikan file sudah diunggah ke Google Colab)
+file_path = '/content/dataset_review_ecommerce_1000.csv'  # Ubah jika path-nya berbeda
+df = pd.read_csv(file_path)
+
+# Langkah 3: Tampilkan 5 data teratas dan info kolom
+print("Data Sample:")
+print(df.head())
+print("\nInformasi Kolom:")
+print(df.info())
+
+# Langkah 4: Buat diagram – contoh: distribusi rating jika ada kolom 'rating' atau 'score'
+if 'rating' in df.columns or 'score' in df.columns:
+    col = 'rating' if 'rating' in df.columns else 'score'
+    plt.figure(figsize=(8, 6))
+    sns.countplot(x=col, data=df, palette='pastel')
+    plt.title(f'Distribusi Nilai {col.capitalize()}')
+    plt.xlabel(col.capitalize())
+    plt.ylabel('Jumlah')
+    plt.show()
+
+# Langkah 5: Pie chart sentimen jika ada kolom 'sentiment'
+if 'sentiment' in df.columns:
+    plt.figure(figsize=(6, 6))
+    df['sentiment'].value_counts().plot.pie(autopct='%1.1f%%', startangle=140, colors=sns.color_palette('pastel'))
+    plt.title('Distribusi Sentimen Review')
+    plt.ylabel('')
+    plt.show()
+
+# Langkah 6: Word cloud jika ada kolom 'review' atau 'text'
+from wordcloud import WordCloud
+
+if 'review' in df.columns or 'text' in df.columns:
+    text_col = 'review' if 'review' in df.columns else 'text'
+    text = ' '.join(str(review) for review in df[text_col])
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+    
+    plt.figure(figsize=(10, 5))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis('off')
+    plt.title('Word Cloud dari Review')
+    plt.show()
